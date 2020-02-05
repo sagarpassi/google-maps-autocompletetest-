@@ -21,7 +21,7 @@ const bottomContainerHeight = 80.0;
 const bottomContainerColour = Color.fromRGBO(41, 171, 226, 1);
 const activeCardColour = Colors.blue;
 const inactiveCardColour = Colors.blueGrey;
-const kGoogleApiKey = "AIzaSyD6eArYHrsL87NVI5PipWXgIY0xMhuV3YI";
+const kGoogleApiKey = "AIzaSyD6eArYHrsL87NVI5PipWXgIY0xMhuV3YIHS";
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
 
 class finalpage extends StatelessWidget {

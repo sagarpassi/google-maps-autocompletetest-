@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340818203708",
+    "firebase_url": "https://locum-1579869426343.firebaseio.com",
+    "project_id": "locum-1579869426343",
+    "storage_bucket": "locum-1579869426343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340818203708:android:64da3f8906567caacb9f39",
+        "android_client_info": {
+          "package_name": "co.sagar.bmicalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340818203708-brceo60tghj8ijdrj9ss4b8sfa17ei5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-7ejv6dWNsAAjPuq-6a8KauHmBJI1fR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340818203708-brceo60tghj8ijdrj9ss4b8sfa17ei5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
